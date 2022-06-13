@@ -9,9 +9,9 @@ Collected wisdom from the hangops slack.
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 ## Table of Contents
 
-- [awesome-hangops](#awesome-hangops)
-  - [Remote Setup](#remote-setup)
-    - [Desks](#desks)
+- [Remote Setup](#remote-setup)
+  - [Desks](#desks)
+  - [Chairs](#chairs)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -22,3 +22,10 @@ Collected wisdom from the hangops slack.
 - [Fully Jarvis](https://www.fully.com/standing-desks/jarvis.html) - Many hangops members swear by their Fully Jarvis sit/stand desks.
 - [VIVO](https://vivo-us.com/) - VIVO is a lower cost option than others but has a great product and an excellent support team. 
 - [UpLift](https://www.upliftdesk.com/) - Similar to Fully Jarvis. Wide range of customizations in size/color/material. 
+
+### Chairs
+
+- [Herman Miller Aeron](https://www.hermanmiller.com/en_gb/products/seating/office-chairs/aeron-chairs/) - Nobody got fired for buying an Aeron
+- [Steelcase Leap](https://www.steelcase.com/products/office-chairs/leap/) - strong competitor in the same price range as the Aeron.
+
+**Note:** chairs can often be bought refurbished or second hand from office surplus/used furniture stores, sometimes for 50% or more off the price, so search around if you're on a budget. 
