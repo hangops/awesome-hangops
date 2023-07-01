@@ -4,7 +4,7 @@
 
 # Description
 
-# Checklist:
+# Checklist
 
 <!---
 Please put an `x` in the boxes to show your agreement.
