@@ -17,6 +17,9 @@ Collected wisdom from the hangops slack.
   - [Desk Frames](#desk-frames)
   - [Chairs](#chairs)
   - [Other Accessories](#other-accessories)
+- [Homelab](#homelab)
+  - [Mini PCs](#mini-pcs)
+  - [Distributions / Operating Systems](#distributions--operating-systems)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -51,3 +54,13 @@ Desk frames are the lower parts of the desk (i.e. not the flat part on top). The
 ### Other Accessories
 
 - [Ergodriven Topo](https://ergodriven.com/products/topo?variant=27365321411) - A standing mat can help reduce fatigue from standing for longer periods.
+
+## Homelab
+
+### Mini PCs
+
+- [Beelink U59 Pro](https://a.co/d/d0W0UDZ) - 4c/4t 11th gen Intel CPU with QuickSync, 2x GbE NICs, m.2 SATA boot drive plus a 2.5" SATA slot
+
+### Distributions / Operating Systems
+
+- [Talos](https://talos.dev) - An immutable, Kubernetes-focused distribution. Great for quickly and easily bootstrapping Kubernetes clusters in the cloud or on bare metal
