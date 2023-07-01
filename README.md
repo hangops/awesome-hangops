@@ -1,4 +1,5 @@
 # awesome-hangops
+
 [![License: CC BY-ND 4.0](https://img.shields.io/badge/License-CC_BY--ND_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nd/4.0/)
 
 Collected wisdom from the hangops slack.
@@ -50,4 +51,3 @@ Desk frames are the lower parts of the desk (i.e. not the flat part on top). The
 ### Other Accessories
 
 - [Ergodriven Topo](https://ergodriven.com/products/topo?variant=27365321411) - A standing mat can help reduce fatigue from standing for longer periods.
-
