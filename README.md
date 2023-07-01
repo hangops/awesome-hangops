@@ -29,3 +29,7 @@ Collected wisdom from the hangops slack.
 - [Steelcase Leap](https://www.steelcase.com/products/office-chairs/leap/) - strong competitor in the same price range as the Aeron.
 
 **Note:** chairs can often be bought refurbished or second hand from office surplus/used furniture stores, sometimes for 50% or more off the price, so search around if you're on a budget. 
+
+### Other Accessories
+
+- [Ergodriven Topo](https://ergodriven.com/products/topo?variant=27365321411) - A standing mat can help reduce fatigue from standing for longer periods.
