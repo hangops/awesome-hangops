@@ -23,6 +23,12 @@ Collected wisdom from the hangops slack.
 - [VIVO](https://vivo-us.com/) - VIVO is a lower cost option than others but has a great product and an excellent support team. 
 - [UpLift](https://www.upliftdesk.com/) - Similar to Fully Jarvis. Wide range of customizations in size/color/material. 
 
+### Desk Frames
+
+Desk frames are the lower parts of the desk (i.e. not the flat part on top). They're useful if you have an existing desk top that you want to preserve or want to have a custom top such as a wood/epoxy creation.
+
+- [Autonomous SmartDesk Frame](https://www.autonomous.ai/standing-desks/diy-smart-desk-kit)
+
 ### Chairs
 
 - [Herman Miller Aeron](https://www.hermanmiller.com/en_gb/products/seating/office-chairs/aeron-chairs/) - Nobody got fired for buying an Aeron
