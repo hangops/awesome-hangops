@@ -10,8 +10,12 @@ Collected wisdom from the hangops slack.
 ## Table of Contents
 
 - [Remote Setup](#remote-setup)
+  - [Pointing Devices](#pointing-devices)
+    - [Trackballs](#trackballs)
   - [Desks](#desks)
+  - [Desk Frames](#desk-frames)
   - [Chairs](#chairs)
+  - [Other Accessories](#other-accessories)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
