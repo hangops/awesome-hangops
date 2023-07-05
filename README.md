@@ -37,6 +37,7 @@ Collected wisdom from the hangops slack.
 - [Fully Jarvis](https://www.fully.com/standing-desks/jarvis.html) - Many hangops members swear by their Fully Jarvis sit/stand desks.
 - [UpLift](https://www.upliftdesk.com/) - Similar to Fully Jarvis. Wide range of customizations in size/color/material.
 - [VIVO](https://vivo-us.com/) - VIVO is a lower cost option than others but has a great product and an excellent support team.
+- [Uppeal](https://www.uppealdesign.com/) - Uppeal desks have a hieght range of 14.7 to 46.7 inches. Can also be purchased as just a frame.
 
 ### Desk Frames
 
