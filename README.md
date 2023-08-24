@@ -20,6 +20,7 @@ Collected wisdom from the hangops slack.
 - [Homelab](#homelab)
   - [Mini PCs](#mini-pcs)
   - [Distributions / Operating Systems](#distributions--operating-systems)
+- [Social Media](#social-media)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -68,4 +69,4 @@ Desk frames are the lower parts of the desk (i.e. not the flat part on top). The
 
 ## Social Media
 
-See the hangops [Social Media Index](https://github.com/hangops/awesome-hangops/social-media.md).
+See the hangops [Social Media Index](https://github.com/hangops/awesome-hangops/blob/main/social-media.md).
