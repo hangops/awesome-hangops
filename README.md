@@ -20,6 +20,7 @@ Collected wisdom from the hangops slack.
 - [Homelab](#homelab)
   - [Mini PCs](#mini-pcs)
   - [Distributions / Operating Systems](#distributions--operating-systems)
+- [Social Media](#social-media)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
