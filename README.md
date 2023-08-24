@@ -65,3 +65,7 @@ Desk frames are the lower parts of the desk (i.e. not the flat part on top). The
 ### Distributions / Operating Systems
 
 - [Talos](https://talos.dev) - An immutable, Kubernetes-focused distribution. Great for quickly and easily bootstrapping Kubernetes clusters in the cloud or on bare metal
+
+## Social Media
+
+See the hangops [Social Media Index](https://github.com/hangops/awesome-hangops/social-media.md).
