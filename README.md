@@ -68,4 +68,4 @@ Desk frames are the lower parts of the desk (i.e. not the flat part on top). The
 
 ## Social Media
 
-See the hangops [Social Media Index](https://github.com/hangops/awesome-hangops/social-media.md).
+See the hangops [Social Media Index](https://github.com/hangops/awesome-hangops/blob/main/social-media.md).
